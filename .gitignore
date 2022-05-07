@@ -1,5 +1,5 @@
 build/
-
+.DS_Store
 # Created by https://www.toptal.com/developers/gitignore/api/c++,cmake,visualstudiocode,xcode
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++,cmake,visualstudiocode,xcode
 
