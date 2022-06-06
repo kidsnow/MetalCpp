@@ -1,2 +1,3 @@
 add_subdirectory(application)
 add_subdirectory(window)
+add_subdirectory(renderer)
